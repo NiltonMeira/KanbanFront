@@ -1,2 +1,2 @@
-# SportsFront
-the front for teh sports app
+# KanbanFront
+the front for teh kanban app
